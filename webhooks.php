@@ -2,7 +2,7 @@
 
 require "vendor/autoload.php";
 require_once('vendor/linecorp/line-bot-sdk/line-bot-sdk-tiny/LINEBotTiny.php');
-
+//TOFIN
 $access_token = 'nUti9TekBwl7st0oLlcygSqX+B+QuBlXRBHH2q54EsAJmh94aIVfT4RpRmLDSJ9Hh7a3IQJbmLfSQ0hOlQE2KXSu9UqNFle34Ls4vQv4UfEBE8g0OKQGoGfcT0dJfffcpo/Tlygqbox33LogS/dHKQdB04t89/1O/w1cDnyilFU=';
 
 // Get POST body content
